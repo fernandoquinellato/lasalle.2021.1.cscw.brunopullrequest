@@ -1,3 +1,22 @@
 @import url("https://fonts.googleapis.com/css2?family=Baloo+Paaji+2:wght@400;500&display=swap");
 
-background-image: url("slide-03.jpg");
+.divLeft {
+    width: 49.5%;
+    height: 949px;
+    float: left;
+    position: relative;
+}
+
+#spaceText {
+    padding-right: 16px;
+}
+
+#photo {
+    width: 1600px;
+    height: 949px;
+}
+
+.textDiv{
+   position: absolute;
+   top: 0;
+   left: 0;
