@@ -11,6 +11,11 @@
     padding-right: 20px;
 }
 
+#background-image {
+    width: 1600px;
+    height: 749px;
+}
+
 .textDiv{
    position: absolute;
    align-items: center
