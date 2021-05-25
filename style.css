@@ -2,18 +2,18 @@
 
 .divLeft {
     width: 49.5%;
-    height: 649px;
+    height: 749px;
     float: left;
     position: relative;
 }
 
 #spaceText {
-    padding-right: 16px;
+    padding-right: 20px;
 }
 
 #photo {
     width: 1600px;
-    height: 649px;
+    height: 749px;
 }
 
 .textDiv{
