@@ -2,24 +2,11 @@ body,html{
     height: 100%;
     margin: 0;
 }
-.divLeft {
+#divLeft {
     background-image: url("https://i.pinimg.com/originals/5a/c1/29/5ac1296b709f4427d4c7785a322d78a2.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     
-}  
-    
-#spaceText {
-    padding-right: 20px;
-}
-
-background-image {
-    
-}
-
-.textDiv{
-   position: absolute;
-   
-}
+} 
